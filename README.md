@@ -839,3 +839,12 @@ After you complete this problem, we'll have a fully functional game of Magic: Th
 
 
 
+Congratulations! You've finished all problems of the lab. Feel free to run doctest to verify your answer again.
+
+```shell
+python3 -m doctest lab07.py
+python3 -m doctest classes.py
+```
+
+
+
